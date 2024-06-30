@@ -1,0 +1,20 @@
+# go clear
+tmp/
+**.sum
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# Misc
+OLDFILE.md
+TUTORIAL.md
+STRUCTURE.Md
+
+# config
+.env
+
+# Package manager
+yarn.lock
+bun.lockb
+package-lock.json
+pnpm-lock.yaml
